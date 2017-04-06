@@ -1,10 +1,10 @@
 # testPB
 # Guide to bank deposits.
 
-## Author <p>Vasilij Polischuk;</p>
+## Author <span>Vasilij Polischuk;</span>
 
-### Development environment: <p>NetBeans IDE 8.2;</p>
+### Development environment: <span>NetBeans IDE 8.2;</span>
 
-### Skype: <p>rough113;</p>
+### Skype: <span>rough113;</span>
 ### E-mail: vasyapolischuk@gmail.com
-### Phone: <p> 0961259645, 0933103196.</p>
+### Phone: <span> 0961259645, 0933103196.</span>
