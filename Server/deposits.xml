@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Deposits>
+    <deposit>
+        <accountId>555</accountId>
+        <amountDeposit>12000.0</amountDeposit>
+        <country>Ukr</country>
+        <depositor>Polischuk V.V.</depositor>
+        <name>PrivatBank</name>
+        <profitability>1.05</profitability>
+        <timeConstraints>12</timeConstraints>
+        <type>onDemand</type>
+    </deposit>
+    <deposit>
+        <accountId>556</accountId>
+        <amountDeposit>24000.0</amountDeposit>
+        <country>Ukr</country>
+        <depositor>Sidorov O.S.</depositor>
+        <name>PrivatBank</name>
+        <profitability>1.15</profitability>
+        <timeConstraints>24</timeConstraints>
+        <type>cumulative</type>
+    </deposit>
+    <deposit>
+        <accountId>1</accountId>
+        <amountDeposit>12547.0</amountDeposit>
+        <country>Ukr</country>
+        <depositor>Polischuk</depositor>
+        <name>PB</name>
+        <profitability>1.11</profitability>
+        <timeConstraints>55</timeConstraints>
+        <type>onDemand</type>
+    </deposit>
+</Deposits>
